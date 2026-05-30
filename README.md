@@ -157,9 +157,9 @@ This project helps HR leaders and decision-makers:
 
 **Your Name**
 
-- LinkedIn: [https://www.linkedin.com/in/subesantp/] (https://www.linkedin.com/in/subesantp/)
-- GitHub: [https://github.com/Subesan1/] (https://github.com/Subesan1/))
-- email : [subesaninnovative@gmail.com](subesaninnovative@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/subesantp/)
+- GitHub: (https://github.com/Subesan1/))
+- email : (subesaninnovative@gmail.com)
 
 ---
 ⭐ If you found this project useful, consider giving it a star.
