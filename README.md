@@ -128,13 +128,18 @@ The dashboard provides:
 HR-POWER-BI-ANALYSIS/
 │
 ├── Dataset/
-│   ├── HR_Data.csv
+│   ├── HR_analytics_Raw_data.csv
 │
-├── Dashboard/
-│   ├── HR_Analysis.pbix
+├── Dashboard& SQL 
+│    ├──HR_Analysis_Dashboard.pbix
+│       HR_analytics.sql
 │
 ├── Images/
 │   ├── Dashboard_Screenshot.png
+│
+├── Repoort/
+│   ├── HR-Analytics-SQL-Report.pptx
+│       HR-Analytics-Dashboard-BI Report.pptx
 │
 └── README.md
 ```
